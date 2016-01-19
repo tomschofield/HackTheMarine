@@ -10,7 +10,8 @@
 # 'reset' is the number of lines before a new shanty is loaded and
 # the shipiing forecast is re-scraped.
 
-# created for Hack The Marine, 16th January 2015
+# created for Hack The Marine by theseanco and tomschofield.
+# 16th January 2015
 
 
 import os
